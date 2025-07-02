@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "./static/css/main.6242dc11.css",
-    "main.js": "./static/js/main.3919bf1d.js",
-    "static/js/206.a62146ee.chunk.js": "./static/js/206.a62146ee.chunk.js",
+    "main.css": "./static/css/main.a003f501.css",
+    "main.js": "./static/js/main.3424d29b.js",
+    "static/js/206.2060fc15.chunk.js": "./static/js/206.2060fc15.chunk.js",
     "static/media/modalbg.png": "./static/media/modalbg.c8fee36ba52dccb83937.png",
     "static/media/GalanoGrotesqueBold.otf": "./static/media/GalanoGrotesqueBold.e8d6ed1f9eff334507fa.otf",
     "static/media/GreasySpoonNF.ttf": "./static/media/GreasySpoonNF.d6298534234cb752d64c.ttf",
     "index.html": "./index.html"
   },
   "entrypoints": [
-    "static/css/main.6242dc11.css",
-    "static/js/main.3919bf1d.js"
+    "static/css/main.a003f501.css",
+    "static/js/main.3424d29b.js"
   ]
 }
